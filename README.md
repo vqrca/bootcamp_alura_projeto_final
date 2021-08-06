@@ -122,3 +122,38 @@ xxxxxxx
 > O notebook *.ipynb* foi construído no google colab usando Python 3.7.10
 
 
+<a name="conclusoes"></a>
+# Conclusões
+
+- Entre as *features* que os modelos mais deram importância, podemos destacar: `LEUKOCYTES_MEDIAN`, `PCR_MEDIAN`, `CALCIUM_MEDIAN` e `AGE_PERCENTIL`. A *feature* `LEUKOCYTES_MEDIAN` foi uma das principais em três dos quatro modelos testados. 
+	- O aumento da contagem total de leucócitos e contagem diferencial de neutrófilos foi mais comumente observado em pacientes com COVID-19 grave ([Yuan *et al.,* 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103893/); [Anurag *et al.,* 2020] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7605785/).
+ 
+- A quantidade de vírus que pode ser encontrada através da análise de PCR afeta diretamente o processo inflamatório agudo que ocorre em diferentes tecidos, especialmente os tecidos dos pulmões, vasos sanguíneos e rins, o que contribui para a deterioração do estado do paciente [Martini *et al.,* 2020](https://pubmed.ncbi.nlm.nih.gov/32319439)
+ 
+-	- Estudos realizados por [Zhou *et al.,* 2020](https://portlandpress.com/bioscirep/article/40/12/BSR20202690/227080/Low-serum-calcium-a-new-important-indicator-of#3174684), mostraram que o equilíbrio de cálcio é um golpe primário de COVID-19 e um biomarcador de gravidade clínica no início do início dos sintomas. O cálcio está intimamente associado a lesões em múltiplos órgãos associadas ao aumento de citocinas inflamatórias. 
+	
+	- Em pacientes com COVID-19, a idade tem sido apontada como um importante fator de risco para doença mais grave e mortalidade [Zou *et al.,* 2020](https://linkinghub.elsevier.com/retrieve/pii/S0140673620305663)
+	
+- O modelo gerado pelo **XGBClassifier** apresentou a melhor acurácia (83.10%) e um AUC de 0.84.
+Diversos trabalhos têm mostrado que o uso do modelo XGBClassifier traz bons resultados, já que ele possui um algoritmo de árvore impulsionada, para construir o modelo. Sendo assim, esse modelo pode controlar o overfitting seguindo o princípio do aumento de gradiente e usando a formalização de modelo mais regularizado, o que lhe confere um desempenho aprimorado. Esse modelo foi projetado para portabilidade, desempenho e eficiência, o que o torna um método de aprendizado de máquina de última geração para dados tabulares [Friedman, 2001](https://projecteuclid.org/journals/annals-of-statistics/volume-29/issue-5/Greedy-function-approximation-A-gradient-boostingmachine/10.1214/aos/1013203451.full ) , [Chen &Guestrin, 2016](https://arxiv.org/pdf/1603.02754.pdf), [Ezz et al., 2021](https://www.techscience.com/cmc/v69n2/43880).
+O modelo **XGBClassifier** contendo os hiperparâmetros: 
+Teve um acerto de **0.82** para pacientes que devem ser internados na UTI (**verdadeiro positivo**) e de **0.84** para pacientes que não devem ser internados (**verdadeiro negativo**). 
+Além disso, o modelo teve **0.16** para pacientes que devem ser internados, mas que na realidade não deveriam ser internados (**falso positivo**) e **0.18** para pacientes que não deveriam ser internados, sendo que necessitavam de internação (**falso negativo**).
+Em relação ao Classification Report: para valores iguais a 0 (pacientes que não precisam de UTI), possuímos uma precisão de 79% e para valores igual a 1 (pacientes que precisam de UTI) a precisão é de 83%.  
+O *Recall* apresentou um desempenho ótimo para valores iguais a 0 (de 87%) e de 73% para valores iguais a 1. 
+ O *F1 score* nos mostra uma média harmônica entre precisão e recall. Para 0, apresentou 82% e para 1 apresentou 77%.
+propor um modelo para prever a admissão de pacientes COVID-19 à UTI durante sua hospitalização usando seus dados médicos coletados nas primeiras 12 horas em quatro estágios de acordo com janelas de tempo. A Fig. 7 mostra as pontuações médias em dez conjuntos de testes diferentes. A Fig. 7a mostra que o primeiro estágio atinge uma AUC de 0,73, que não é o melhor desempenho porque tem apenas um pequeno número de instâncias em relação aos outros estágios (Estágios 2-4). Observamos que quando o número de instâncias aumenta, o desempenho melhora, conforme refletido nas fases 2–4, que alcançam AUCs de 0,92, 0,95 e 0,97, respectivamente.
+Estudos anteriores realizados por [Ezz e colaboradores]((https://www.techscience.com/cmc/v69n2/43880) com o mesmo dataset utilizado neste trabalho e com o mesmo modelo (XGBClassifier), porém empregando os dados coletados nas primeiras 12 horas em quatro estágios de acordo com janelas de tempo, mostraram que na primeira janela (0-2 horas) o modelo o atingiu uma AUC de 0.73 e conforme as análises foram feitas nas janelas seguintes, foi observado que o desempenho do modelo melhora, atingindo valores de AUCs de 0.92 (janela de 2-4 horas), 0.95 (janela de 4-6 horas) e 0.97 (janela de 6-12 horas). Desse modo, vemos que o pré-processamento e hiperparâmetros definidos aqui gerou com esse mesmo modelo um AUC de 0.84 na janela inicial (0-2 horas), o que é algo relevante e que pode ser ainda melhorado utilizando essas janelas seguintes. 
+
+
+
+<a name="final"></a>
+# Considerações finais
+
+Será imprescindível tentar melhorar ainda mais estes resultados, tentando utilizar as janelas seguintes à janela inicial de 0-2 horas. 
+
+Os valores de acertos para falsos negativos e falsos positivos precisam ser melhorados, pois é extremamente ruim, por exemplo, não conceder o leito de UTI para alguém que precisa, mas que foi marcado como falso negativo. 
+
+Por último, ferramentas como essa, após possuírem alta sensibilidade e desempenho na classificação, precisam ser difundidas para definir qual a necessidade de leitos de UTI nos hospitais, não só para o COVID-19, mas quem sabe para outras doenças - aumentando a excelência no planejamento de recursos e o nível de atendimento ao paciente.
+
+
