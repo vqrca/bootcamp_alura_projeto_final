@@ -44,6 +44,7 @@
 🤿 [Notebook da Análise Exploratória dos Dados]()
 
 🔮 [Notebook das Previsões com Machine Learning]()
+> Para uma experiência melhor eu recomendo que esse notebook seja aberto pelo Google Colaboratory 😉
 
 👩‍💻 Uma publicação no Medium, sumarizando os principais resultados, pode ser encontrada [aqui]()
 
