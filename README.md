@@ -8,8 +8,8 @@
 <!--ts-->
    * [Resumo](#resumo)
    * [Introdução](#intro)
-   * [Dados](#dados)
-   * [Hipóteses](#hip)
+   * [Objetivos](#obj)
+   * [Métodos](#met)
    * [Conclusões](#conclusoes)
    * [Considerações finais](#final)
    * [Referências](#ref)
