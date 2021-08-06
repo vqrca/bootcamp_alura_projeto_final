@@ -111,7 +111,7 @@ Após a importação das bibliotecas e dos dados, as seguintes etapas foram real
 
 xxxxxxx
 
-## Bibliotecas utilizadas e suas respectivas funções**
+## Bibliotecas utilizadas e suas respectivas funções
 - Featurewiz: Seleção das melhores features do dataset
 - Lazypredict: Construção de modelos de Machine Learning
 - Matplotlib: Plotar os gráficos
