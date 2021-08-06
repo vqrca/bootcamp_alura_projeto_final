@@ -111,13 +111,13 @@ Além disso, somente a janela de 0-2 horas foi utilizada, já que quanto mais ce
 Após a importação das bibliotecas e dos dados, as seguintes etapas foram realizadas:
 
 ## Limpeza dos dados
-Todos os processos de pré-processamento dos dados estão disponíveis do [Notebook da Limpeza dos Dados](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks/Valquiria_Alencar_Projeto_final_Limpeza.ipynb)
+Todos os processos de pré-processamento dos dados estão disponíveis do [Notebook da Limpeza dos Dados](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks/Valquiria_Alencar_Projeto_final_Limpeza.ipynb).
 
 ## Análise exploratória
-Todas as análises realizadas para explorar os dados antes de testar os modelos de Machine Learning estão disponíveis no [Notebook da Análise Exploratória dos Dados]()
+Todas as análises realizadas para explorar os dados antes de testar os modelos de Machine Learning estão disponíveis no [Notebook da Análise Exploratória dos Dados]().
 
 ## Modelos de Machine Learning
-Conceitos sobre Machine Learning, modelos testados e análise de métricas estão disponíveis no [Notebook das Previsões com Machine Learning]()
+Conceitos sobre Machine Learning, modelos testados e análise de métricas estão disponíveis no [Notebook das Previsões com Machine Learning]().
 > Para uma experiência melhor eu recomendo que esse notebook seja aberto pelo Google Colaboratory 😉
 
 ## Bibliotecas utilizadas e suas respectivas funções
