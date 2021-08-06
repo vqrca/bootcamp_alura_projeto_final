@@ -37,9 +37,14 @@
 
 - Será imprescindível tentar melhorar ainda mais estes resultados e difundir o uso de uma ferramenta como essa para definir qual a necessidade de leitos de UTI nos hospitais, não só para o COVID-19, mas para outras doenças - aumentando a excelência no planejamento de recursos e o nível de atendimento ao paciente.
 
+## Notebooks: 
+
 🧹 [Notebook da Limpeza dos Dados](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks/Valquiria_Alencar_Projeto_final_Limpeza.ipynb)
+
 🤿 [Notebook da Análise Exploratória dos Dados]()
+
 🔮 [Notebook das Previsões com Machine Learning]()
+
 👩‍💻 Uma publicação no Medium, sumarizando os principais resultados, pode ser encontrada [aqui]()
 
 
