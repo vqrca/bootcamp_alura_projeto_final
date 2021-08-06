@@ -85,7 +85,7 @@ O objetivo deste projeto é **prever** quais pacientes precisarão ser admitidos
 <a name="met"></a>
 # Métodos
 
-## Coleta dos dados:
+## Coleta dos dados 🎲
 Os dados utilizados neste projeto foram obtidos da base de dados da COVID-19, disponibilizada pelo Hospital Sírio Libanês, no [Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19) e foram armazenados na pasta [Data](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Data/Kaggle_Sirio_Libanes_ICU_Prediction.xlsx) deste respositório. 
 > Após, a etapa de limpeza dos dados, o arquivo final foi salvo na pasta [Clean](https://github.com/vqrca/bootcamp_alura_projeto_final/tree/main/Data/Clean) deste respositório.
 >  
@@ -110,17 +110,17 @@ Então, foi um critério obrigatório para este projeto, não utilizar os dados 
 Além disso, somente a janela de 0-2 horas foi utilizada, já que quanto mais cedo a previsão for feita é melhor, tornando-se clinicamente mais relevante.
 Após a importação das bibliotecas e dos dados, as seguintes etapas foram realizadas:
 
-## Limpeza dos dados
+## Limpeza dos dados 🧹
 Todos os processos de pré-processamento dos dados estão disponíveis do [Notebook da Limpeza dos Dados](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks/Valquiria_Alencar_Projeto_final_Limpeza.ipynb).
 
-## Análise exploratória
+## Análise exploratória 🤿
 Todas as análises realizadas para explorar os dados antes de testar os modelos de Machine Learning estão disponíveis no [Notebook da Análise Exploratória dos Dados]().
 
-## Modelos de Machine Learning
+## Modelos de Machine Learning 🔮
 Conceitos sobre Machine Learning, modelos testados e análise de métricas estão disponíveis no [Notebook das Previsões com Machine Learning](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks/Valqu%C3%ADria_Alencar_Projeto_final_ML.ipynb).
 > Para uma experiência melhor eu recomendo que esse notebook seja aberto pelo Google Colaboratory 😉
 
-## Bibliotecas utilizadas e suas respectivas funções
+## Bibliotecas utilizadas e suas respectivas funções 🐍
 - Featurewiz: Seleção das melhores features do dataset
 - Lazypredict: Construção de modelos de Machine Learning
 - Matplotlib: Plotar os gráficos
@@ -131,7 +131,7 @@ Conceitos sobre Machine Learning, modelos testados e análise de métricas estã
 > O notebook *.ipynb* foi construído no google colab usando Python 3.7.10
 
 <a name="conclusoes"></a>
-# Conclusões
+# Conclusões 💡
 
 - Entre as *features* que os modelos mais deram importância, podemos destacar: `LEUKOCYTES_MEDIAN`, `PCR_MEDIAN`, `CALCIUM_MEDIAN` e `AGE_PERCENTIL`. A *feature* `LEUKOCYTES_MEDIAN` foi uma das principais em três dos quatro modelos testados. 
 
@@ -166,7 +166,7 @@ Conceitos sobre Machine Learning, modelos testados e análise de métricas estã
 - Estudos anteriores realizados por [Ezz e colaboradores (2021)](https://www.techscience.com/cmc/v69n2/43880) com o mesmo dataset utilizado neste trabalho e com o mesmo modelo (XGBClassifier), porém empregando os dados coletados nas primeiras 12 horas em quatro estágios de acordo com janelas de tempo, mostraram que na primeira janela (0-2 horas) o modelo o atingiu uma AUC de 0.73 e conforme as análises foram feitas nas janelas seguintes, foi observado que o desempenho do modelo melhora, atingindo valores de AUCs de 0.92 (janela de 2-4 horas), 0.95 (janela de 4-6 horas) e 0.97 (janela de 6-12 horas). Desse modo, vemos que o pré-processamento e hiperparâmetros definidos aqui gerou com esse mesmo modelo um AUC de 0.84 na janela inicial (0-2 horas), o que é algo relevante e que pode ser ainda melhorado utilizando essas janelas seguintes. 
 
 <a name="final"></a>
-# Considerações finais
+# Considerações finais 🚀
 
 - Será imprescindível tentar melhorar ainda mais estes resultados, tentando utilizar as janelas seguintes à janela inicial de 0-2 horas. 
 
@@ -176,7 +176,7 @@ Conceitos sobre Machine Learning, modelos testados e análise de métricas estã
 
 
 <a name="ref"></a>
-# **Referências**
+# **Referências** 📄
 [[1]](https://academic.oup.com/cid/article/31/1/96/321510)  El-Sahly HM, Atmar RL, Glezen WP, et al. Spectrum of clinical illness in hospitalized patients with “common cold” virus infections. Clinl Infect Dis. 2000;31(1):96–100.
  
 [[2]](https://www.nejm.org/doi/full/10.1056/nejmoa030747 ) Drosten C, Günther S, Preiser W, et al. Identification of a novel coronavirus in patients with severe acute respiratory syndrome. N Engl J Med. 2003;348(20):1967–1976.
@@ -205,7 +205,7 @@ Conceitos sobre Machine Learning, modelos testados e análise de métricas estã
 [[13]](http://ganj-ie.iust.ac.ir:8081/images/6/69/Interpretable-machine-learning.pdf) Molnar, Christoph. Interpretable Machine Learning: A Guide for Making Black Box Models Explainable, 2018. 
 
 <a name="doc"></a>
-# **Documentação**
+# Documentação 📚
 
 [Featurewiz](https://pypi.org/project/featurewiz/) 
 
@@ -222,7 +222,7 @@ Conceitos sobre Machine Learning, modelos testados e análise de métricas estã
 [Seaborn](https://seaborn.pydata.org/)
  
 <a name="agra"></a>
-# **Agradecimentos**
+# Agradecimentos 👏
 
 Esse Bootcamp mudou a minha vida e me deu o desejo de reinventar a minha carreira. Foi durante ele que surgiram oportunidades profissionais para migração de área. Sem dúvidas, hoje uma das minhas maiores alegrias é ter entrado no mundo dos Dados. 
 
@@ -242,7 +242,7 @@ E é claro, obrigada por terem acreditado no meu potencial e pela bolsa de estud
 
 
 <a name="contact"></a>
-# **Onde encontrar meu trabalho?**
+# Onde encontrar meu trabalho? 📪
  
 [Medium](https://valquiria-c-alencar.medium.com/)
  
