@@ -157,3 +157,82 @@ Os valores de acertos para falsos negativos e falsos positivos precisam ser melh
 Por último, ferramentas como essa, após possuírem alta sensibilidade e desempenho na classificação, precisam ser difundidas para definir qual a necessidade de leitos de UTI nos hospitais, não só para o COVID-19, mas quem sabe para outras doenças - aumentando a excelência no planejamento de recursos e o nível de atendimento ao paciente.
 
 
+<a name="ref"></a>
+# **Referências**
+[[1]] (https://academic.oup.com/cid/article/31/1/96/321510)  El-Sahly HM, Atmar RL, Glezen WP, et al. Spectrum of clinical illness in hospitalized patients with “common cold” virus infections. Clinl Infect Dis. 2000;31(1):96–100.
+ 
+[[2]] (https://www.nejm.org/doi/full/10.1056/nejmoa030747 ) Drosten C, Günther S, Preiser W, et al. Identification of a novel coronavirus in patients with severe acute respiratory syndrome. N Engl J Med. 2003;348(20):1967–1976.
+ 
+[[3]](https://jamanetwork.com/journals/jama/fullarticle/2760500)  Phelan AL, Katz R, Gostin LO. The novel coronavirus originating in Wuhan, China: challenges for global health governance. JAMA. 2020 Jan 30;323(8):709.
+ 
+[[4]](https://portal.fiocruz.br/pergunta/por-que-doenca-causada-pelo-novo-coronavirus-recebeu-o-nome-de-covid-19) Portal Fiocruz: COVID-19 Perguntas e Respostas
+ 
+[[5]](https://onlinelibrary.wiley.com/doi/10.1002/jmv.25701)  Li X, Wang W, Zhao X, et al. Transmission dynamics and evolutionary history of 2019-nCoV. J Med Virol. 2020 May;92(5):501–511.
+ 
+[[6]](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)  Organization WH, Organization WH Report of the who-china joint mission on coronavirus disease 2019 (COVID-19). Geneva; 2020.
+
+[[7]](https://www.sciencedirect.com/science/article/abs/pii/S0896841120300469)  Rothan HA, Byrareddy SN. The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak. J Autoimmun. 2020;109:102433.
+
+[[8]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7167192/) Wang W, Tang J, Wei F. Updated understanding of the outbreak of 2019 novel coronavirus (2019‐nCoV) in Wuhan, China. J Med Virol. 2020;92(4):441–447.
+
+[[9]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext)  Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020;395(10223):497–506.
+
+[[10]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext) Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. 
+
+[[11]](https://doi.org/10.1016/S0140-6736(20)30627-9) Remuzzi A, Remuzzi G. COVID-19 and Italy: what next? The Lancet. 2020; 395(10231):1225–8.
+
+
+[[12]](https://doi.org/10.1056/NEJMsb2005114) Emanuel EJ, Persad G, Upshur R, Thome B, Parker M, Glickman A, et al. Fair Allocation of Scarce Medical Resources in the Time of Covid-19. N Engl J Med. 2020; 382(21):2049–55. 
+
+[[13]](http://ganj-ie.iust.ac.ir:8081/images/6/69/Interpretable-machine-learning.pdf) Molnar, Christoph. Interpretable Machine Learning: A Guide for Making Black Box Models Explainable, 2018. 
+
+<a name="doc"></a>
+# **Documentação**
+
+[Featurewiz](https://pypi.org/project/featurewiz/) 
+
+[Lazypredict](https://pypi.org/project/lazypredict/) 
+
+[Matplotlib](https://matplotlib.org/)
+ 
+[Numpy](https://numpy.org/)
+ 
+[Pandas](https://pandas.pydata.org/)
+ 
+[Scikit-learn](https://scikit-learn.org/)
+ 
+[Seaborn](https://seaborn.pydata.org/)
+ 
+<a name="agra"></a>
+# **Agradecimentos**
+
+Esse Bootcamp mudou a minha vida e me deu o desejo de reinventar a minha carreira. Foi durante ele que surgiram oportunidades profissionais para migração de área. Sem dúvidas, hoje uma das minhas maiores alegrias é ter entrado no mundo dos Dados. 
+
+Gostaria de deixar meu agradecimento a todos os instrutores do Bootcamp: Thiago Gonçalves, Guilherme Silveira, Allan Spadini e Karoline Penteado. Vocês foram incríveis e trouxeram conteúdos maravilhosos, sempre de forma didática.
+
+Aos amigos que fiz nesse Bootcamp e que levarei para vida: Os Bootcampers Carolina Dias e Junior Torres. 
+	
+Ao Glaudemias Grangeiro, o nosso Rei dos mapas, com quem eu tive muitas discussões relevantes sobre os projetos. 
+
+Ao João Vitor pelos cafezinhos e por nos dar dicas valiosas sobre como melhorar as apresentações  
+
+Ao pessoal do Scuba Team e do Discord, que em todos esses meses tiraram dúvidas, trouxeram discussões e ideias muito interessantes
+
+E é claro, obrigada por terem acreditado no meu potencial e pela bolsa de estudos para esse Bootcamp! ❤️
+
+<p align="center"><img src= </p>
+
+<p align="center"> <img src=https://media.giphy.com/media/ZfK4cXKJTTay1Ava29/giphy.gif </p>
+
+
+<a name="contact"></a>
+# **Onde encontrar meu trabalho?**
+ 
+[Medium](https://valquiria-c-alencar.medium.com/)
+ 
+[LinkedIn](https://www.linkedin.com/in/valqu%C3%ADria-alencar-786a8911b/)
+ 
+[ResearchGate](https://www.researchgate.net/profile/Valquiria-Alencar)
+ 
+ 
+
