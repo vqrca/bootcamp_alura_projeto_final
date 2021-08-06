@@ -76,5 +76,49 @@ Pensando nisso, o Hospital Sírio Libânes disponibilizou no [Kaggle](https://ww
 
 - **Prever NÃO admissão à UTI de casos COVID-19 confirmados**, para fornecer aos hospitais locais e temporários uma resposta boa o suficiente, para que os médicos de linha de frente possam dar alta com segurança e acompanhar remotamente esses pacientes.
 
+<a name="obj"></a>
+# Objetivo
+O objetivo deste projeto é **prever** quais pacientes precisarão ser admitidos na unidade de terapia intensiva e assim, **definir** qual a necessidade de leitos de UTI do hospital, a partir dos dados clínicos individuais disponíveis.
+> Quando conseguimos definir a quantidade de leitos necessários em um determinado hospital, conseguimos evitar rupturas, visto que, caso outra pessoa procure ajuda e, eventualmente, precise de cuidados intensivos, o modelo preditivo já conseguirá detectar essa necessidade e, desta forma, a remoção e transferência deste(a) paciente pode ser organizada antecipadamente.
+
+<a name="met"></a>
+# Métodos
+
+## Coleta dos dados:
+Os dados utilizados neste projeto foram obtidos da base de dados da COVID-19, disponibilizada pelo Hospital Sírio Libanês, no [Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19) e foram armazenados na pasta [Data](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Data/Kaggle_Sirio_Libanes_ICU_Prediction.xlsx) deste respositório. 
+> Após, a etapa de limpeza dos dados, o arquivo final foi salvo na pasta [Clean](https://github.com/vqrca/bootcamp_alura_projeto_final/tree/main/Data/Clean) deste respositório.
+>  
+Nesta base de dados encontramos diversos tipos de informações que foram separadas em 4 grupos:
+- Informações demográficas - 3 variáveis do tipo categórica
+- Doenças pré-existentes - 9 variáveis do tipo categórica
+- Resultados do exame de sangue - 36 variáveis, do tipo contínua: quando necessário, expandidas em média, mediana, max, min, diff(max-min) e diff relativa (diff/mediana)
+- Sinais vitais - 6 variáveis do tipo contínua
+- Neste dataset, temos algumas janelas de dados, coluna denominada como WINDOW, onde os pacientes foram agregados por janelas em ordem cronológica, que correspondem ao tempo que os pacientes entraram na UTI após a admissão no hospital: 
+ 
+|WINDOW|DESCRIÇÃO|
+|:---------:|:-----------------------------------:|
+| 0-2	    |  From 0 to 2 hours of the admission |
+| 2-4	    | From 2 to 4 hours of the admission  |
+| 4-6	    |  From 4 to 6 hours of the admission |
+| 6-12    |	From 6 to 12 hours of the admission |
+| Above-12|     	Above 12 hours from admission |
+
+- No dataset também temos uma coluna denominada ICU, que corresponde à entrada do paciente na UTI.
+
+Então, foi um critério obrigatório para este projeto, não utilizar os dados quando o paciente deu entrada na UTI: ICU = 1,  pois não sabemos se os dados dos exames de sangue foram coletados antes ou depois do paciente ter sido encaminhado para UTI.
+Além disso, somente a janela de 0-2 horas foi utilizada, já que quanto mais cedo a previsão for feita é melhor, tornando-se clinicamente mais relevante.
+Após a importação das bibliotecas e dos dados, as seguintes etapas foram realizadas:
+
+xxxxxxx
+
+## Bibliotecas utilizadas e suas respectivas funções**
+- Featurewiz: Seleção das melhores features do dataset
+- Lazypredict: Construção de modelos de Machine Learning
+- Matplotlib: Plotar os gráficos
+- Numpy: Cálculos numéricos
+- Pandas: Manipulação dos datasets
+- Sckit-learn: Métricas para avaliar os modelos gerados 
+- Seaborn: Plotar os gráficos
+> O notebook *.ipynb* foi construído no google colab usando Python 3.7.10
 
 
