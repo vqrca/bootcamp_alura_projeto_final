@@ -43,7 +43,7 @@
 
 🤿 [Notebook da Análise Exploratória dos Dados]()
 
-🔮 [Notebook das Previsões com Machine Learning]()
+🔮 [Notebook das Previsões com Machine Learning](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks/Valqu%C3%ADria_Alencar_Projeto_final_ML.ipynb)
 > Para uma experiência melhor eu recomendo que esse notebook seja aberto pelo Google Colaboratory 😉
 
 👩‍💻 Uma publicação no Medium, sumarizando os principais resultados, pode ser encontrada [aqui]()
@@ -117,7 +117,7 @@ Todos os processos de pré-processamento dos dados estão disponíveis do [Noteb
 Todas as análises realizadas para explorar os dados antes de testar os modelos de Machine Learning estão disponíveis no [Notebook da Análise Exploratória dos Dados]().
 
 ## Modelos de Machine Learning
-Conceitos sobre Machine Learning, modelos testados e análise de métricas estão disponíveis no [Notebook das Previsões com Machine Learning]().
+Conceitos sobre Machine Learning, modelos testados e análise de métricas estão disponíveis no [Notebook das Previsões com Machine Learning](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks/Valqu%C3%ADria_Alencar_Projeto_final_ML.ipynb).
 > Para uma experiência melhor eu recomendo que esse notebook seja aberto pelo Google Colaboratory 😉
 
 ## Bibliotecas utilizadas e suas respectivas funções
