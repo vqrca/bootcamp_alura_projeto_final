@@ -8,7 +8,7 @@
 <!--ts-->
    * [Resumo](#resumo)
    * [Introdução](#intro)
-   * [Objetivos](#obj)
+   * [Objetivo](#obj)
    * [Métodos](#met)
    * [Conclusões](#conclusoes)
    * [Considerações finais](#final)
@@ -53,12 +53,13 @@
 
 ## Coronavírus SARS-CoV-2 e a COVID-19
 
-Os coronavírus (CoVs) são vírus de RNA de fita simples que causam doenças em humanos e animais. Os coronavírus humanos (HCoVs - human coronaviruses) foram identificados pela primeira vez como causas de infecções respiratórias agudas em 1962. Nos últimos anos, os HCoVs foram mais frequentemente associados a infecções graves do trato respiratório superior e inferior. Eles foram identificados como a principal causa de pneumonia em adultos mais velhos e pacientes imunocomprometidos [[1]](https://academic.oup.com/cid/article/31/1/96/321510). 
-Nas últimas duas décadas, dois coronavírus humanos altamente patogênicos foram identificados, incluindo coronavírus associados à Síndrome respiratória aguda grave e a Síndrome respiratória do Oriente Médio, que surgiu em diferentes regiões do mundo [[2]](https://www.nejm.org/doi/full/10.1056/nejmoa030747). Em 31 de dezembro de 2019, uma nova cepa de coronavírus foi isolada e nomeada como Síndrome respiratória aguda grave coronavírus 2 (SARS-Cov-2) pelo Comitê Internacional de Taxonomia de Vírus (ICTV - International Committee on Taxonomy of Viruses) de pacientes com pneumonia de etiologia desconhecida na cidade de Wuhan, China [[3]](https://jamanetwork.com/journals/jama/fullarticle/2760500). 
-A doença causada por este novo coronavírus recebeu o  nome  de COVID-19: COVID é a junção de letras que se referem a (co)rona (vi)rus (d)isease, o que na tradução para o português seria "doença do coronavírus". Já o número 19 está ligado a 2019, quando os primeiros casos foram publicamente divulgados [[4]](https://portal.fiocruz.br/pergunta/por-que-doenca-causada-pelo-novo-coronavirus-recebeu-o-nome-de-covid-19). Em 11 de março de 2020, a Organização Mundial da Saúde (OMS) anunciou que COVID-19 é uma "emergência de saúde pública de interesse internacional" [[5]](https://onlinelibrary.wiley.com/doi/10.1002/jmv.25701).
-As características clínicas da COVID-19 são variadas e inespecíficas. A apresentação da doença pode variar de assintomática a pneumonia grave e morte [[6]](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf).
-Foi relatado que os sintomas aparecem após um período de incubação entre 2–14 dias [[7]](https://www.sciencedirect.com/science/article/abs/pii/S0896841120300469). O período desde o início dos sintomas de SARS-CoV-2 até a morte variou de 6 a 41 dias,  dependendo da idade e do estado do sistema imunológico do paciente [[7]](https://www.sciencedirect.com/science/article/abs/pii/S0896841120300469). Além disso, estudos relataram que a COVID-19 progrediu mais rapidamente entre os idosos em comparação com aqueles com idade inferior a 60 anos [[8]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7167192/). Um estudo de pesquisa analisando 1.099 pacientes confirmados por laboratório em Wuhan, encontrou características clínicas comuns caracterizadas como sintomas leves e moderados, que incluem febre (88,7%), tosse (67,8%), fadiga (38,1%), produção de expectoração (33,4%), dispneia (18,7%), dor de garganta (13,9%) e cefaleia (13,6%). No entanto, alguns dos pacientes apresentam sintomas gastrointestinais, com diarreia (3,8%) e vômitos (5,0%). Portadores assintomáticos de SARS-CoV-2, que apresentavam histórico de condições de saúde subjacentes, como hipertensão, doença pulmonar obstrutiva crônica, diabetes, doença cardiovascular, desenvolveram posteriormente doenças críticas, que se manifestaram como insuficiência respiratória, choque séptico, falência de múltiplos órgãos e eventualmente morte [[7]](https://www.sciencedirect.com/science/article/abs/pii/S0896841120300469) [[9]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext). 
-Por ser altamente transmissível, essa nova doença, se espalhou rapidamente por todo o mundo. Superou de forma esmagadora o SARS e o MERS em termos de número de pessoas infectadas e da amplitude espacial das áreas epidêmicas [[10]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext).
+- Os coronavírus (CoVs) são vírus de RNA de fita simples que causam doenças em humanos e animais. Os coronavírus humanos (HCoVs - human coronaviruses) foram identificados pela primeira vez como causas de infecções respiratórias agudas em 1962. Nos últimos anos, os HCoVs foram mais frequentemente associados a infecções graves do trato respiratório superior e inferior. Eles foram identificados como a principal causa de pneumonia em adultos mais velhos e pacientes imunocomprometidos [[1]](https://academic.oup.com/cid/article/31/1/96/321510). 
+- Nas últimas duas décadas, dois coronavírus humanos altamente patogênicos foram identificados, incluindo coronavírus associados à Síndrome respiratória aguda grave e a Síndrome respiratória do Oriente Médio, que surgiu em diferentes regiões do mundo [[2]](https://www.nejm.org/doi/full/10.1056/nejmoa030747). Em 31 de dezembro de 2019, uma nova cepa de coronavírus foi isolada e nomeada como Síndrome respiratória aguda grave coronavírus 2 (SARS-Cov-2) pelo Comitê Internacional de Taxonomia de Vírus (ICTV - International Committee on Taxonomy of Viruses) de pacientes com pneumonia de etiologia desconhecida na cidade de Wuhan, China [[3]](https://jamanetwork.com/journals/jama/fullarticle/2760500). 
+- A doença causada por este novo coronavírus recebeu o  nome  de COVID-19: COVID é a junção de letras que se referem a (co)rona (vi)rus (d)isease, o que na tradução para o português seria "doença do coronavírus". Já o número 19 está ligado a 2019, quando os primeiros casos foram publicamente divulgados [[4]](https://portal.fiocruz.br/pergunta/por-que-doenca-causada-pelo-novo-coronavirus-recebeu-o-nome-de-covid-19). Em 11 de março de 2020, a Organização Mundial da Saúde (OMS) anunciou que COVID-19 é uma "emergência de saúde pública de interesse internacional" [[5]](https://onlinelibrary.wiley.com/doi/10.1002/jmv.25701).
+- As características clínicas da COVID-19 são variadas e inespecíficas. A apresentação da doença pode variar de assintomática a pneumonia grave e morte [[6]](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf).
+Foi relatado que os sintomas aparecem após um período de incubação entre 2–14 dias [[7]](https://www.sciencedirect.com/science/article/abs/pii/S0896841120300469). O período desde o início dos sintomas de SARS-CoV-2 até a morte variou de 6 a 41 dias,  dependendo da idade e do estado do sistema imunológico do paciente [[7]](https://www.sciencedirect.com/science/article/abs/pii/S0896841120300469). Além disso, estudos relataram que a COVID-19 progrediu mais rapidamente entre os idosos em comparação com aqueles com idade inferior a 60 anos [[8]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7167192/). Um estudo de pesquisa analisando 1.099 pacientes confirmados por laboratório em Wuhan, encontrou características clínicas comuns caracterizadas como sintomas leves e moderados, que incluem febre (88,7%), tosse (67,8%), fadiga (38,1%), produção de expectoração (33,4%), dispneia (18,7%), dor de garganta (13,9%) e cefaleia (13,6%). 
+- No entanto, alguns dos pacientes apresentam sintomas gastrointestinais, com diarreia (3,8%) e vômitos (5,0%). Portadores assintomáticos de SARS-CoV-2, que apresentavam histórico de condições de saúde subjacentes, como hipertensão, doença pulmonar obstrutiva crônica, diabetes, doença cardiovascular, desenvolveram posteriormente doenças críticas, que se manifestaram como insuficiência respiratória, choque séptico, falência de múltiplos órgãos e eventualmente morte [[7]](https://www.sciencedirect.com/science/article/abs/pii/S0896841120300469) [[9]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext). 
+- Por ser altamente transmissível, essa nova doença, se espalhou rapidamente por todo o mundo. Superou de forma esmagadora o SARS e o MERS em termos de número de pessoas infectadas e da amplitude espacial das áreas epidêmicas [[10]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext).
 
 ## Contexto: Como uma pandemia pode afetar o Sistema de Saúde
 
@@ -109,7 +110,11 @@ Então, foi um critério obrigatório para este projeto, não utilizar os dados 
 Além disso, somente a janela de 0-2 horas foi utilizada, já que quanto mais cedo a previsão for feita é melhor, tornando-se clinicamente mais relevante.
 Após a importação das bibliotecas e dos dados, as seguintes etapas foram realizadas:
 
-xxxxxxx
+## Limpeza dos dados
+
+## Análise exploratória
+
+## Modelos de Machine Learning
 
 ## Bibliotecas utilizadas e suas respectivas funções
 - Featurewiz: Seleção das melhores features do dataset
@@ -126,35 +131,45 @@ xxxxxxx
 # Conclusões
 
 - Entre as *features* que os modelos mais deram importância, podemos destacar: `LEUKOCYTES_MEDIAN`, `PCR_MEDIAN`, `CALCIUM_MEDIAN` e `AGE_PERCENTIL`. A *feature* `LEUKOCYTES_MEDIAN` foi uma das principais em três dos quatro modelos testados. 
-	- O aumento da contagem total de leucócitos e contagem diferencial de neutrófilos foi mais comumente observado em pacientes com COVID-19 grave ([Yuan *et al.,* 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103893/); [Anurag *et al.,* 2020] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7605785/).
+
+  - O aumento da contagem total de leucócitos e contagem diferencial de neutrófilos foi mais comumente observado em pacientes com COVID-19 grave ([Yuan *et al.,* 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103893/); [Anurag *et al.,* 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7605785/)).
  
-- A quantidade de vírus que pode ser encontrada através da análise de PCR afeta diretamente o processo inflamatório agudo que ocorre em diferentes tecidos, especialmente os tecidos dos pulmões, vasos sanguíneos e rins, o que contribui para a deterioração do estado do paciente [Martini *et al.,* 2020](https://pubmed.ncbi.nlm.nih.gov/32319439)
+  - A quantidade de vírus que pode ser encontrada através da análise de PCR afeta diretamente o processo inflamatório agudo que ocorre em diferentes tecidos, especialmente os tecidos dos pulmões, vasos sanguíneos e rins, o que contribui para a deterioração do estado do paciente ([Martini *et al.,* 2020](https://pubmed.ncbi.nlm.nih.gov/32319439)).
  
--	- Estudos realizados por [Zhou *et al.,* 2020](https://portlandpress.com/bioscirep/article/40/12/BSR20202690/227080/Low-serum-calcium-a-new-important-indicator-of#3174684), mostraram que o equilíbrio de cálcio é um golpe primário de COVID-19 e um biomarcador de gravidade clínica no início do início dos sintomas. O cálcio está intimamente associado a lesões em múltiplos órgãos associadas ao aumento de citocinas inflamatórias. 
+  - Estudos realizados por [Zhou *et al.,* 2020](https://portlandpress.com/bioscirep/article/40/12/BSR20202690/227080/Low-serum-calcium-a-new-important-indicator-of#3174684), mostraram que o equilíbrio de cálcio é um golpe primário de COVID-19 e um biomarcador de gravidade clínica no início do início dos sintomas. O cálcio está intimamente associado a lesões em múltiplos órgãos associadas ao aumento de citocinas inflamatórias. 
 	
-	- Em pacientes com COVID-19, a idade tem sido apontada como um importante fator de risco para doença mais grave e mortalidade [Zou *et al.,* 2020](https://linkinghub.elsevier.com/retrieve/pii/S0140673620305663)
+  - Em pacientes com COVID-19, a idade tem sido apontada como um importante fator de risco para doença mais grave e mortalidade ([Zou *et al.,* 2020](https://linkinghub.elsevier.com/retrieve/pii/S0140673620305663)).
 	
+
 - O modelo gerado pelo **XGBClassifier** apresentou a melhor acurácia (83.10%) e um AUC de 0.84.
-Diversos trabalhos têm mostrado que o uso do modelo XGBClassifier traz bons resultados, já que ele possui um algoritmo de árvore impulsionada, para construir o modelo. Sendo assim, esse modelo pode controlar o overfitting seguindo o princípio do aumento de gradiente e usando a formalização de modelo mais regularizado, o que lhe confere um desempenho aprimorado. Esse modelo foi projetado para portabilidade, desempenho e eficiência, o que o torna um método de aprendizado de máquina de última geração para dados tabulares [Friedman, 2001](https://projecteuclid.org/journals/annals-of-statistics/volume-29/issue-5/Greedy-function-approximation-A-gradient-boostingmachine/10.1214/aos/1013203451.full ) , [Chen &Guestrin, 2016](https://arxiv.org/pdf/1603.02754.pdf), [Ezz et al., 2021](https://www.techscience.com/cmc/v69n2/43880).
-O modelo **XGBClassifier** contendo os hiperparâmetros: 
-Teve um acerto de **0.82** para pacientes que devem ser internados na UTI (**verdadeiro positivo**) e de **0.84** para pacientes que não devem ser internados (**verdadeiro negativo**). 
-Além disso, o modelo teve **0.16** para pacientes que devem ser internados, mas que na realidade não deveriam ser internados (**falso positivo**) e **0.18** para pacientes que não deveriam ser internados, sendo que necessitavam de internação (**falso negativo**).
-Em relação ao Classification Report: para valores iguais a 0 (pacientes que não precisam de UTI), possuímos uma precisão de 79% e para valores igual a 1 (pacientes que precisam de UTI) a precisão é de 83%.  
-O *Recall* apresentou um desempenho ótimo para valores iguais a 0 (de 87%) e de 73% para valores iguais a 1. 
- O *F1 score* nos mostra uma média harmônica entre precisão e recall. Para 0, apresentou 82% e para 1 apresentou 77%.
-propor um modelo para prever a admissão de pacientes COVID-19 à UTI durante sua hospitalização usando seus dados médicos coletados nas primeiras 12 horas em quatro estágios de acordo com janelas de tempo. A Fig. 7 mostra as pontuações médias em dez conjuntos de testes diferentes. A Fig. 7a mostra que o primeiro estágio atinge uma AUC de 0,73, que não é o melhor desempenho porque tem apenas um pequeno número de instâncias em relação aos outros estágios (Estágios 2-4). Observamos que quando o número de instâncias aumenta, o desempenho melhora, conforme refletido nas fases 2–4, que alcançam AUCs de 0,92, 0,95 e 0,97, respectivamente.
-Estudos anteriores realizados por [Ezz e colaboradores]((https://www.techscience.com/cmc/v69n2/43880) com o mesmo dataset utilizado neste trabalho e com o mesmo modelo (XGBClassifier), porém empregando os dados coletados nas primeiras 12 horas em quatro estágios de acordo com janelas de tempo, mostraram que na primeira janela (0-2 horas) o modelo o atingiu uma AUC de 0.73 e conforme as análises foram feitas nas janelas seguintes, foi observado que o desempenho do modelo melhora, atingindo valores de AUCs de 0.92 (janela de 2-4 horas), 0.95 (janela de 4-6 horas) e 0.97 (janela de 6-12 horas). Desse modo, vemos que o pré-processamento e hiperparâmetros definidos aqui gerou com esse mesmo modelo um AUC de 0.84 na janela inicial (0-2 horas), o que é algo relevante e que pode ser ainda melhorado utilizando essas janelas seguintes. 
 
+- Diversos trabalhos têm mostrado que o uso do modelo XGBClassifier traz bons resultados, já que ele possui um algoritmo de árvore impulsionada, para construir o modelo. Sendo assim, esse modelo pode controlar o overfitting seguindo o princípio do aumento de gradiente e usando a formalização de modelo mais regularizado, o que lhe confere um desempenho aprimorado. Esse modelo foi projetado para portabilidade, desempenho e eficiência, o que o torna um método de aprendizado de máquina de última geração para dados tabulares ([Friedman, 2001](https://projecteuclid.org/journals/annals-of-statistics/volume-29/issue-5/Greedy-function-approximation-A-gradient-boostingmachine/10.1214/aos/1013203451.full ) , [Chen & Guestrin, 2016](https://arxiv.org/pdf/1603.02754.pdf) , [Ezz *et al.,* 2021](https://www.techscience.com/cmc/v69n2/43880)).
 
+- O modelo **XGBClassifier** contendo os hiperparâmetros: 
+`XGBClassifier(learning_rate=0.02, colsample_bytree=0.6, gamma=1, max_depth=6, min_child_weight=1, subsample = 1.0)` foi escolhido como o melhor neste projeto:
+
+  - Teve um acerto de **0.82** para pacientes que devem ser internados na UTI (**verdadeiro positivo**) e de **0.84** para pacientes que não devem ser internados (**verdadeiro negativo**).
+ 
+  - Além disso, o modelo teve **0.16** para pacientes que devem ser internados, mas que na realidade não deveriam ser internados (**falso positivo**) e **0.18** para pacientes que não deveriam ser internados, sendo que necessitavam de internação (**falso negativo**).
+
+- Após analisar o *Classification Report* desse modelo, é possível observar que:
+
+  - Para valores igual a 0 (pacientes que não precisam de UTI), possuímos uma precisão de 79% e para valores iguais a 1 (pacientes que precisam de UTI) a precisão é de 83%. 
+ 
+  - O *Recall* apresentou um desempenho ótimo para valores iguais a 0 (de 87%) e de 73% para valores iguais a 1. 
+ 
+  - O *F1 score* nos mostra uma média harmônica entre precisão e recall. Para 0, apresentou 82% e para 1 apresentou 77%.
+
+- Estudos anteriores realizados por [Ezz e colaboradores]((https://www.techscience.com/cmc/v69n2/43880) com o mesmo dataset utilizado neste trabalho e com o mesmo modelo (XGBClassifier), porém empregando os dados coletados nas primeiras 12 horas em quatro estágios de acordo com janelas de tempo, mostraram que na primeira janela (0-2 horas) o modelo o atingiu uma AUC de 0.73 e conforme as análises foram feitas nas janelas seguintes, foi observado que o desempenho do modelo melhora, atingindo valores de AUCs de 0.92 (janela de 2-4 horas), 0.95 (janela de 4-6 horas) e 0.97 (janela de 6-12 horas). Desse modo, vemos que o pré-processamento e hiperparâmetros definidos aqui gerou com esse mesmo modelo um AUC de 0.84 na janela inicial (0-2 horas), o que é algo relevante e que pode ser ainda melhorado utilizando essas janelas seguintes. 
 
 <a name="final"></a>
 # Considerações finais
 
-Será imprescindível tentar melhorar ainda mais estes resultados, tentando utilizar as janelas seguintes à janela inicial de 0-2 horas. 
+- Será imprescindível tentar melhorar ainda mais estes resultados, tentando utilizar as janelas seguintes à janela inicial de 0-2 horas. 
 
-Os valores de acertos para falsos negativos e falsos positivos precisam ser melhorados, pois é extremamente ruim, por exemplo, não conceder o leito de UTI para alguém que precisa, mas que foi marcado como falso negativo. 
+- Os valores de acertos para falsos negativos e falsos positivos precisam ser melhorados, pois é extremamente ruim, por exemplo, não conceder o leito de UTI para alguém que precisa, mas que foi marcado como falso negativo. 
 
-Por último, ferramentas como essa, após possuírem alta sensibilidade e desempenho na classificação, precisam ser difundidas para definir qual a necessidade de leitos de UTI nos hospitais, não só para o COVID-19, mas quem sabe para outras doenças - aumentando a excelência no planejamento de recursos e o nível de atendimento ao paciente.
+- Por último, ferramentas como essa, após possuírem alta sensibilidade e desempenho na classificação, precisam ser difundidas para definir qual a necessidade de leitos de UTI nos hospitais, não só para o COVID-19, mas quem sabe para outras doenças - aumentando a excelência no planejamento de recursos e o nível de atendimento ao paciente.
 
 
 <a name="ref"></a>
@@ -219,8 +234,6 @@ Ao João Vitor pelos cafezinhos e por nos dar dicas valiosas sobre como melhorar
 Ao pessoal do Scuba Team e do Discord, que em todos esses meses tiraram dúvidas, trouxeram discussões e ideias muito interessantes
 
 E é claro, obrigada por terem acreditado no meu potencial e pela bolsa de estudos para esse Bootcamp! ❤️
-
-<p align="center"><img src= </p>
 
 <p align="center"> <img src=https://media.giphy.com/media/ZfK4cXKJTTay1Ava29/giphy.gif </p>
 
