@@ -5,14 +5,13 @@
 </p>
 
 # **Sumário:**
-<!--ts→
-   [Resumo](#resumo)
+<!--ts-->
+   * [Resumo](#resumo)
    * [Introdução](#intro)
-   * [Objetivos](#obj)
-   * [Métodos](#met)
-   * [Resultados](#results)
+   * [Dados](#dados)
+   * [Hipóteses](#hip)
    * [Conclusões](#conclusoes)
-   * [Perspectivas futuras](#final)
+   * [Considerações finais](#final)
    * [Referências](#ref)
    * [Documentação](#doc)
    * [Agradecimentos](#agra)
@@ -20,7 +19,7 @@
    <!--te-->
 
 <a name="resumo"></a>
-#**Resumo** 🏃‍♀️
+# Resumo 🏃‍♀️
 
 - Com sua rápida disseminação, a doença **COVID-19** criou uma forte demanda por hospitais e leitos nas UTIs (Unidades de Terapia Intensiva). Esta maior necessidade de recursos hospitalares levou ao **colapso dos sistemas de saúde** em todo o mundo, o que pode ter contribuído para as maiores taxas de mortalidade relatadas. 
 
