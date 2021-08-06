@@ -49,9 +49,9 @@
 👩‍💻 Uma publicação no Medium, sumarizando os principais resultados, pode ser encontrada [aqui]()
 
 <a name="intro"></a>
-# **Introdução**
+# Introdução
 
-##**Coronavírus SARS-CoV-2 e a COVID-19**
+## Coronavírus SARS-CoV-2 e a COVID-19
 
 Os coronavírus (CoVs) são vírus de RNA de fita simples que causam doenças em humanos e animais. Os coronavírus humanos (HCoVs - human coronaviruses) foram identificados pela primeira vez como causas de infecções respiratórias agudas em 1962. Nos últimos anos, os HCoVs foram mais frequentemente associados a infecções graves do trato respiratório superior e inferior. Eles foram identificados como a principal causa de pneumonia em adultos mais velhos e pacientes imunocomprometidos [[1]](https://academic.oup.com/cid/article/31/1/96/321510). 
 Nas últimas duas décadas, dois coronavírus humanos altamente patogênicos foram identificados, incluindo coronavírus associados à Síndrome respiratória aguda grave e a Síndrome respiratória do Oriente Médio, que surgiu em diferentes regiões do mundo [[2]](https://www.nejm.org/doi/full/10.1056/nejmoa030747). Em 31 de dezembro de 2019, uma nova cepa de coronavírus foi isolada e nomeada como Síndrome respiratória aguda grave coronavírus 2 (SARS-Cov-2) pelo Comitê Internacional de Taxonomia de Vírus (ICTV - International Committee on Taxonomy of Viruses) de pacientes com pneumonia de etiologia desconhecida na cidade de Wuhan, China [[3]](https://jamanetwork.com/journals/jama/fullarticle/2760500). 
@@ -60,20 +60,21 @@ As características clínicas da COVID-19 são variadas e inespecíficas. A apre
 Foi relatado que os sintomas aparecem após um período de incubação entre 2–14 dias [[7]](https://www.sciencedirect.com/science/article/abs/pii/S0896841120300469). O período desde o início dos sintomas de SARS-CoV-2 até a morte variou de 6 a 41 dias,  dependendo da idade e do estado do sistema imunológico do paciente [[7]](https://www.sciencedirect.com/science/article/abs/pii/S0896841120300469). Além disso, estudos relataram que a COVID-19 progrediu mais rapidamente entre os idosos em comparação com aqueles com idade inferior a 60 anos [[8]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7167192/). Um estudo de pesquisa analisando 1.099 pacientes confirmados por laboratório em Wuhan, encontrou características clínicas comuns caracterizadas como sintomas leves e moderados, que incluem febre (88,7%), tosse (67,8%), fadiga (38,1%), produção de expectoração (33,4%), dispneia (18,7%), dor de garganta (13,9%) e cefaleia (13,6%). No entanto, alguns dos pacientes apresentam sintomas gastrointestinais, com diarreia (3,8%) e vômitos (5,0%). Portadores assintomáticos de SARS-CoV-2, que apresentavam histórico de condições de saúde subjacentes, como hipertensão, doença pulmonar obstrutiva crônica, diabetes, doença cardiovascular, desenvolveram posteriormente doenças críticas, que se manifestaram como insuficiência respiratória, choque séptico, falência de múltiplos órgãos e eventualmente morte [[7]](https://www.sciencedirect.com/science/article/abs/pii/S0896841120300469) [[9]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext). 
 Por ser altamente transmissível, essa nova doença, se espalhou rapidamente por todo o mundo. Superou de forma esmagadora o SARS e o MERS em termos de número de pessoas infectadas e da amplitude espacial das áreas epidêmicas [[10]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext).
 
-##**Contexto: Como uma pandemia pode afetar o Sistema de Saúde**
+## Contexto: Como uma pandemia pode afetar o Sistema de Saúde
 
 Com sua rápida disseminação, a COVID-19 criou uma forte demanda por hospitais e leitos nas UTIs (Unidades de Terapia Intensiva). Esta maior necessidade de recursos hospitalares levou ao colapso dos sistemas de saúde em todo o mundo, o que pode ter contribuído para as maiores taxas de mortalidade relatadas [[11]](https://doi.org/10.1016/S0140-6736(20)30627-9 P). Em países com sistemas de saúde já sobrecarregados, como é o caso do Brasil, não havia recursos suficientes de equipamentos médicos, medicamentos e pessoal treinado para lidar com o aumento no número de pacientes com COVID-19 que precisvam de suporte hospitalar [[12]](. https://doi.org/10. 1056/NEJMsb2005114).
 
 
-##**O problema descrito pelo hospital Sírio Libanês**
+## O problema descrito pelo hospital Sírio Libanês
 
 A pandemia de COVID-19 atingiu o mundo inteiro, sobrecarregando os sistemas de saúde - despreparados para uma solicitação tão intensa e demorada de leitos de UTI, profissionais, equipamentos de proteção individual e recursos de saúde. O Brasil registrou o primeiro caso COVID-19 em 26 de fevereiro de 2020 e atingiu a transmissão na comunidade em 20 de março de 2020. 
 Existe uma urgência na obtenção de dados precisos para melhor prever e preparar os sistemas de saúde e evitar colapsos, definido pela necessidade de leitos de UTI acima da capacidade (assumindo que recursos humanos, EPIs e profissionais estejam disponíveis), usando dados clínicos individuais - em vez de dados epidemiológicos e populacionais. Isso seria imprescindível para evitar o colapso no sistema de saúde, como podemos observar na figura abaixo: 
 
 Pensando nisso, o Hospital Sírio Libânes disponibilizou no [Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19) um dataset contendo informações sobre vários pacientes, com os seguintes objetivos: 
 
-**Prever admissão na UTI de casos confirmados de COVID-19**, com base em dados disponíveis, para fornecer aos hospitais terciários e trimestrais a resposta mais precisa, para que os recursos da UTI possam ser arranjados ou a transferência do paciente possa ser agendada.
-**Prever NÃO admissão à UTI de casos COVID-19 confirmados**, para fornecer aos hospitais locais e temporários uma resposta boa o suficiente, para que os médicos de linha de frente possam dar alta com segurança e acompanhar remotamente esses pacientes.
+- **Prever admissão na UTI de casos confirmados de COVID-19**, com base em dados disponíveis, para fornecer aos hospitais terciários e trimestrais a resposta mais precisa, para que os recursos da UTI possam ser arranjados ou a transferência do paciente possa ser agendada.
+
+- **Prever NÃO admissão à UTI de casos COVID-19 confirmados**, para fornecer aos hospitais locais e temporários uma resposta boa o suficiente, para que os médicos de linha de frente possam dar alta com segurança e acompanhar remotamente esses pacientes.
 
 
 
