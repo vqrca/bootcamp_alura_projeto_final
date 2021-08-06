@@ -136,7 +136,7 @@ Após a importação das bibliotecas e dos dados, as seguintes etapas foram real
  
   - A quantidade de vírus que pode ser encontrada através da análise de PCR afeta diretamente o processo inflamatório agudo que ocorre em diferentes tecidos, especialmente os tecidos dos pulmões, vasos sanguíneos e rins, o que contribui para a deterioração do estado do paciente ([Martini *et al.,* 2020](https://pubmed.ncbi.nlm.nih.gov/32319439)).
  
-  - Estudos realizados por [Zhou *et al.,* 2020](https://portlandpress.com/bioscirep/article/40/12/BSR20202690/227080/Low-serum-calcium-a-new-important-indicator-of#3174684), mostraram que o equilíbrio de cálcio é um golpe primário de COVID-19 e um biomarcador de gravidade clínica no início do início dos sintomas. O cálcio está intimamente associado a lesões em múltiplos órgãos associadas ao aumento de citocinas inflamatórias. 
+  - Estudos realizados por [Zhou e colaboradores (2020)](https://portlandpress.com/bioscirep/article/40/12/BSR20202690/227080/Low-serum-calcium-a-new-important-indicator-of#3174684), mostraram que o equilíbrio de cálcio é um golpe primário de COVID-19 e um biomarcador de gravidade clínica no início do início dos sintomas. O cálcio está intimamente associado a lesões em múltiplos órgãos associadas ao aumento de citocinas inflamatórias. 
 	
   - Em pacientes com COVID-19, a idade tem sido apontada como um importante fator de risco para doença mais grave e mortalidade ([Zou *et al.,* 2020](https://linkinghub.elsevier.com/retrieve/pii/S0140673620305663)).
 	
@@ -160,7 +160,7 @@ Após a importação das bibliotecas e dos dados, as seguintes etapas foram real
  
   - O *F1 score* nos mostra uma média harmônica entre precisão e recall. Para 0, apresentou 82% e para 1 apresentou 77%.
 
-- Estudos anteriores realizados por [Ezz e colaboradores]((https://www.techscience.com/cmc/v69n2/43880) com o mesmo dataset utilizado neste trabalho e com o mesmo modelo (XGBClassifier), porém empregando os dados coletados nas primeiras 12 horas em quatro estágios de acordo com janelas de tempo, mostraram que na primeira janela (0-2 horas) o modelo o atingiu uma AUC de 0.73 e conforme as análises foram feitas nas janelas seguintes, foi observado que o desempenho do modelo melhora, atingindo valores de AUCs de 0.92 (janela de 2-4 horas), 0.95 (janela de 4-6 horas) e 0.97 (janela de 6-12 horas). Desse modo, vemos que o pré-processamento e hiperparâmetros definidos aqui gerou com esse mesmo modelo um AUC de 0.84 na janela inicial (0-2 horas), o que é algo relevante e que pode ser ainda melhorado utilizando essas janelas seguintes. 
+- Estudos anteriores realizados por [Ezz e colaboradores (2020)](https://www.techscience.com/cmc/v69n2/43880) com o mesmo dataset utilizado neste trabalho e com o mesmo modelo (XGBClassifier), porém empregando os dados coletados nas primeiras 12 horas em quatro estágios de acordo com janelas de tempo, mostraram que na primeira janela (0-2 horas) o modelo o atingiu uma AUC de 0.73 e conforme as análises foram feitas nas janelas seguintes, foi observado que o desempenho do modelo melhora, atingindo valores de AUCs de 0.92 (janela de 2-4 horas), 0.95 (janela de 4-6 horas) e 0.97 (janela de 6-12 horas). Desse modo, vemos que o pré-processamento e hiperparâmetros definidos aqui gerou com esse mesmo modelo um AUC de 0.84 na janela inicial (0-2 horas), o que é algo relevante e que pode ser ainda melhorado utilizando essas janelas seguintes. 
 
 <a name="final"></a>
 # Considerações finais
@@ -174,9 +174,9 @@ Após a importação das bibliotecas e dos dados, as seguintes etapas foram real
 
 <a name="ref"></a>
 # **Referências**
-[[1]] (https://academic.oup.com/cid/article/31/1/96/321510)  El-Sahly HM, Atmar RL, Glezen WP, et al. Spectrum of clinical illness in hospitalized patients with “common cold” virus infections. Clinl Infect Dis. 2000;31(1):96–100.
+[[1]](https://academic.oup.com/cid/article/31/1/96/321510)  El-Sahly HM, Atmar RL, Glezen WP, et al. Spectrum of clinical illness in hospitalized patients with “common cold” virus infections. Clinl Infect Dis. 2000;31(1):96–100.
  
-[[2]] (https://www.nejm.org/doi/full/10.1056/nejmoa030747 ) Drosten C, Günther S, Preiser W, et al. Identification of a novel coronavirus in patients with severe acute respiratory syndrome. N Engl J Med. 2003;348(20):1967–1976.
+[[2]](https://www.nejm.org/doi/full/10.1056/nejmoa030747 ) Drosten C, Günther S, Preiser W, et al. Identification of a novel coronavirus in patients with severe acute respiratory syndrome. N Engl J Med. 2003;348(20):1967–1976.
  
 [[3]](https://jamanetwork.com/journals/jama/fullarticle/2760500)  Phelan AL, Katz R, Gostin LO. The novel coronavirus originating in Wuhan, China: challenges for global health governance. JAMA. 2020 Jan 30;323(8):709.
  
