@@ -111,10 +111,14 @@ Além disso, somente a janela de 0-2 horas foi utilizada, já que quanto mais ce
 Após a importação das bibliotecas e dos dados, as seguintes etapas foram realizadas:
 
 ## Limpeza dos dados
+Todos os processos de pré-processamento dos dados estão disponíveis do [Notebook da Limpeza dos Dados](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks/Valquiria_Alencar_Projeto_final_Limpeza.ipynb)
 
 ## Análise exploratória
+Todas as análises realizadas para explorar os dados antes de testar os modelos de Machine Learning estão disponíveis no [Notebook da Análise Exploratória dos Dados]()
 
 ## Modelos de Machine Learning
+Conceitos sobre Machine Learning, modelos testados e análise de métricas estão disponíveis no [Notebook das Previsões com Machine Learning]()
+> Para uma experiência melhor eu recomendo que esse notebook seja aberto pelo Google Colaboratory 😉
 
 ## Bibliotecas utilizadas e suas respectivas funções
 - Featurewiz: Seleção das melhores features do dataset
@@ -125,7 +129,6 @@ Após a importação das bibliotecas e dos dados, as seguintes etapas foram real
 - Sckit-learn: Métricas para avaliar os modelos gerados 
 - Seaborn: Plotar os gráficos
 > O notebook *.ipynb* foi construído no google colab usando Python 3.7.10
-
 
 <a name="conclusoes"></a>
 # Conclusões
@@ -160,7 +163,7 @@ Após a importação das bibliotecas e dos dados, as seguintes etapas foram real
  
   - O *F1 score* nos mostra uma média harmônica entre precisão e recall. Para 0, apresentou 82% e para 1 apresentou 77%.
 
-- Estudos anteriores realizados por [Ezz e colaboradores (2020)](https://www.techscience.com/cmc/v69n2/43880) com o mesmo dataset utilizado neste trabalho e com o mesmo modelo (XGBClassifier), porém empregando os dados coletados nas primeiras 12 horas em quatro estágios de acordo com janelas de tempo, mostraram que na primeira janela (0-2 horas) o modelo o atingiu uma AUC de 0.73 e conforme as análises foram feitas nas janelas seguintes, foi observado que o desempenho do modelo melhora, atingindo valores de AUCs de 0.92 (janela de 2-4 horas), 0.95 (janela de 4-6 horas) e 0.97 (janela de 6-12 horas). Desse modo, vemos que o pré-processamento e hiperparâmetros definidos aqui gerou com esse mesmo modelo um AUC de 0.84 na janela inicial (0-2 horas), o que é algo relevante e que pode ser ainda melhorado utilizando essas janelas seguintes. 
+- Estudos anteriores realizados por [Ezz e colaboradores (2021)](https://www.techscience.com/cmc/v69n2/43880) com o mesmo dataset utilizado neste trabalho e com o mesmo modelo (XGBClassifier), porém empregando os dados coletados nas primeiras 12 horas em quatro estágios de acordo com janelas de tempo, mostraram que na primeira janela (0-2 horas) o modelo o atingiu uma AUC de 0.73 e conforme as análises foram feitas nas janelas seguintes, foi observado que o desempenho do modelo melhora, atingindo valores de AUCs de 0.92 (janela de 2-4 horas), 0.95 (janela de 4-6 horas) e 0.97 (janela de 6-12 horas). Desse modo, vemos que o pré-processamento e hiperparâmetros definidos aqui gerou com esse mesmo modelo um AUC de 0.84 na janela inicial (0-2 horas), o que é algo relevante e que pode ser ainda melhorado utilizando essas janelas seguintes. 
 
 <a name="final"></a>
 # Considerações finais
