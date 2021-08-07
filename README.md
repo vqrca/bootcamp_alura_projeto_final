@@ -63,7 +63,7 @@ Foi relatado que os **sintomas aparecem após um período de incubação entre 2
 
 ## Contexto: Como uma pandemia pode afetar o Sistema de Saúde
 
-Com sua rápida disseminação, a COVID-19 criou uma **forte demanda por hospitais e leitos nas UTIs** (Unidades de Terapia Intensiva). Esta maior necessidade de recursos hospitalares levou ao **colapso dos sistemas de saúde em todo o mundo**, o que pode ter contribuído para as maiores taxas de mortalidade relatadas [[11]](https://doi.org/10.1016/S0140-6736(20)30627-9P). Em países com sistemas de saúde já sobrecarregados, como é o caso do Brasil, não havia recursos suficientes de equipamentos médicos, medicamentos e pessoal treinado para lidar com o aumento no número de pacientes com COVID-19 que precisvam de suporte hospitalar [[12]](https://doi.org/10.1056/NEJMsb2005114).
+Com sua rápida disseminação, a COVID-19 criou uma **forte demanda por hospitais e leitos nas UTIs** (Unidades de Terapia Intensiva). Esta maior necessidade de recursos hospitalares levou ao **colapso dos sistemas de saúde em todo o mundo**, o que pode ter contribuído para as maiores taxas de mortalidade relatadas [[11]](https://doi.org/10.1016/S0140-6736(20)30627-9P). Em países com sistemas de saúde já sobrecarregados, como é o caso do Brasil, não havia recursos suficientes de equipamentos médicos, medicamentos e pessoal treinado para lidar com o aumento no número de pacientes com COVID-19 que precisavam de suporte hospitalar [[12]](https://doi.org/10.1056/NEJMsb2005114).
 
 
 ## O problema descrito pelo hospital Sírio Libanês
