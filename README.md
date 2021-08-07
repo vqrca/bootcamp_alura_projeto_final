@@ -90,8 +90,8 @@ O objetivo deste projeto é **prever** quais pacientes precisarão ser admitidos
 # Métodos
 
 ## Coleta dos dados 🎲
-Os dados utilizados neste projeto foram obtidos da base de dados da COVID-19, disponibilizada pelo Hospital Sírio Libanês, no [Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19) e foram armazenados na pasta [Data](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Data/Kaggle_Sirio_Libanes_ICU_Prediction.xlsx) deste respositório. 
-> Após, a etapa de limpeza dos dados, o arquivo final foi salvo na pasta [Clean](https://github.com/vqrca/bootcamp_alura_projeto_final/tree/main/Data/Clean) deste respositório.
+Os dados utilizados neste projeto foram obtidos da base de dados da COVID-19, disponibilizada pelo Hospital Sírio Libanês, no [Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19) e foram armazenados na pasta [Data](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Data/Kaggle_Sirio_Libanes_ICU_Prediction.xlsx) deste repositório. 
+> Após, a etapa de limpeza dos dados, o arquivo final foi salvo na pasta [Clean](https://github.com/vqrca/bootcamp_alura_projeto_final/tree/main/Data/Clean) deste repositório.
 >  
 Nesta base de dados encontramos diversos tipos de informações que foram separadas em 4 grupos:
 - Informações demográficas - 3 variáveis do tipo categórica
