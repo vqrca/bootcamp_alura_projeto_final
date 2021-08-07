@@ -177,11 +177,11 @@ Conceitos sobre Machine Learning, modelos testados e análise de métricas estã
 
 <a name="ref"></a>
 # **Referências** 📄
-[[1]](https://academic.oup.com/cid/article/31/1/96/321510)  El-Sahly HM, Atmar RL, Glezen WP, et al. Spectrum of clinical illness in hospitalized patients with “common cold” virus infections. Clinl Infect Dis. 2000;31(1):96–100.
+[[1]](https://academic.oup.com/cid/article/31/1/96/321510)  El-Sahly HM, Atmar RL, Glezen WP, et al. Spectrum of clinical illness in hospitalized patients with “common cold” virus infections. Clinl Infect Dis. 2000; 31(1):96–100.
  
-[[2]](https://www.nejm.org/doi/full/10.1056/nejmoa030747 ) Drosten C, Günther S, Preiser W, et al. Identification of a novel coronavirus in patients with severe acute respiratory syndrome. N Engl J Med. 2003;348(20):1967–1976.
+[[2]](https://www.nejm.org/doi/full/10.1056/nejmoa030747 ) Drosten C, Günther S, Preiser W, et al. Identification of a novel coronavirus in patients with severe acute respiratory syndrome. N Engl J Med. 2003; 348(20):1967–1976.
  
-[[3]](https://jamanetwork.com/journals/jama/fullarticle/2760500)  Phelan AL, Katz R, Gostin LO. The novel coronavirus originating in Wuhan, China: challenges for global health governance. JAMA. 2020 Jan 30;323(8):709.
+[[3]](https://jamanetwork.com/journals/jama/fullarticle/2760500)  Phelan AL, Katz R, Gostin LO. The novel coronavirus originating in Wuhan, China: challenges for global health governance. JAMA. 2020 Jan 30; 323(8):709.
  
 [[4]](https://portal.fiocruz.br/pergunta/por-que-doenca-causada-pelo-novo-coronavirus-recebeu-o-nome-de-covid-19) Portal Fiocruz: COVID-19 Perguntas e Respostas
  
@@ -189,11 +189,11 @@ Conceitos sobre Machine Learning, modelos testados e análise de métricas estã
  
 [[6]](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)  Organization WH, Organization WH Report of the who-china joint mission on coronavirus disease 2019 (COVID-19). Geneva; 2020.
 
-[[7]](https://www.sciencedirect.com/science/article/abs/pii/S0896841120300469)  Rothan HA, Byrareddy SN. The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak. J Autoimmun. 2020;109:102433.
+[[7]](https://www.sciencedirect.com/science/article/abs/pii/S0896841120300469)  Rothan HA, Byrareddy SN. The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak. J Autoimmun. 2020; 109:102433.
 
 [[8]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7167192/) Wang W, Tang J, Wei F. Updated understanding of the outbreak of 2019 novel coronavirus (2019‐nCoV) in Wuhan, China. J Med Virol. 2020;92(4):441–447.
 
-[[9]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext)  Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020;395(10223):497–506.
+[[9]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext)  Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020; 395(10223):497–506.
 
 [[10]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext) Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. 
 
@@ -206,19 +206,19 @@ Conceitos sobre Machine Learning, modelos testados e análise de métricas estã
 
 [[14](https://pubmed.ncbi.nlm.nih.gov/32319439) Martini N, Piccinni C, Pedrini A, Maggioni A. CoViD-19 e malattie croniche: conoscenze attuali, passi futuri e il progetto MaCroScopio [CoViD-19 and chronic diseases: current knowledge, future steps and the MaCroScopio project.]. Recenti Prog Med. 2020; Apr;111(4):198-201.
 
-[[15]](https://linkinghub.elsevier.com/retrieve/pii/S0140673620305663) Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet (London, England). 2020;395(10229):1054–62. pmid:32171076
+[[15]](https://linkinghub.elsevier.com/retrieve/pii/S0140673620305663) Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet (London, England). 2020; 395(10229):1054–62. pmid:32171076
 
-[[16]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103893/) Yuan J, Zou R, Zeng L, et al. The correlation between viral clearance and biochemical outcomes of 94 COVID-19 infected discharged patients. Inflamm Res. 2020;69(6):599-606. doi:10.1007/s00011-020-01342-0
+[[16]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103893/) Yuan J, Zou R, Zeng L, et al. The correlation between viral clearance and biochemical outcomes of 94 COVID-19 infected discharged patients. Inflamm Res. 2020; 69(6):599-606. 
 
-[[17]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7605785/) Anurag A, Jha PK, Kumar A. Differential white blood cell count in the COVID-19: A cross-sectional study of 148 patients. Diabetes Metab Syndr. 2020;14(6):2099-2102. doi:10.1016/j.dsx.2020.10.029
+[[17]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7605785/) Anurag A, Jha PK, Kumar A. Differential white blood cell count in the COVID-19: A cross-sectional study of 148 patients. Diabetes Metab Syndr. 2020; 14(6):2099-2102. 
 
 [[18]](https://portlandpress.com/bioscirep/article/40/12/BSR20202690/227080/Low-serum-calcium-a-new-important-indicator-of#3174684) Xi Zhou, Dong Chen, Lan Wang, Yuanyuan Zhao, Lai Wei, Zhishui Chen, Bo Yang; Low serum calcium: a new, important indicator of COVID-19 patients from mild/moderate to severe/critical. Biosci Rep 23 December 2020; 40 (12): BSR20202690. doi:
 
-[[19]](https://projecteuclid.org/journals/annals-of-statistics/volume-29/issue-5/Greedy-function-approximation-A-gradient-boostingmachine/10.1214/aos/1013203451.full) Friedman J. H. Greedy function approximation: A gradient boosting machine. Annals of statistics, 2001; vol. 29, no. 5, pp. 1189–1232.
+[[19]](https://projecteuclid.org/journals/annals-of-statistics/volume-29/issue-5/Greedy-function-approximation-A-gradient-boostingmachine/10.1214/aos/1013203451.full) Friedman J. H. Greedy function approximation: A gradient boosting machine. Annals of statistics, 2001; 29(5): 1189–1232.
 
-[[20]](https://arxiv.org/pdf/1603.02754.pdf) Chen T, Guestrin C. Xgboost: A scalable tree boosting system, in The 22nd ACM SIGKDD Int. Conf. 2016, San Francisco, California, USA, pp. 785–794. 
+[[20]](https://arxiv.org/pdf/1603.02754.pdf) Chen T, Guestrin C. Xgboost: A scalable tree boosting system, in The 22nd ACM SIGKDD Int. Conf. 2016; San Francisco, California, USA, pp. 785–794. 
 
-[[21]](https://www.techscience.com/cmc/v69n2/43880) Ezz M, Elbashir M. K,, Shabana H. Predicting the Need for ICU Admission in COVID-19 Patients Using XGBoost. CMC-Computers, Materials & Continua, 2021; 69(2), 2077–2092.
+[[21]](https://www.techscience.com/cmc/v69n2/43880) Ezz M, Elbashir M. K,, Shabana H. Predicting the Need for ICU Admission in COVID-19 Patients Using XGBoost. CMC-Computers, Materials & Continua, 2021; 69(2): 2077–2092.
 
 
 <a name="doc"></a>
