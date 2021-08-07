@@ -75,7 +75,7 @@ A pandemia de COVID-19 atingiu o mundo inteiro, sobrecarregando os sistemas de s
  <img src="https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Images/curva-corrigido-post.gif" />
 </p>
 
-Pensando nisso, o Hospital Sírio Libânes disponibilizou no [Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19) um dataset contendo informações sobre vários pacientes, com os seguintes objetivos: 
+Pensando nisso, o Hospital Sírio Libanês disponibilizou no [Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19) um dataset contendo informações sobre vários pacientes, com os seguintes objetivos: 
 
 - **Prever admissão na UTI de casos confirmados de COVID-19**, com base em dados disponíveis, para fornecer aos hospitais terciários e trimestrais a resposta mais precisa, para que os recursos da UTI possam ser arranjados ou a transferência do paciente possa ser agendada.
 
