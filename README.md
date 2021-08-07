@@ -114,7 +114,7 @@ Então, foi um critério obrigatório para este projeto, não utilizar os dados 
 
 Além disso, somente a janela de 0-2 horas foi utilizada, já que quanto mais cedo a previsão for feita é melhor, tornando-se clinicamente mais relevante.
 
-**Após a importação das bibliotecas e dos dados, as seguintes etapas foram realizadas:
+**Após a importação das bibliotecas e dos dados, as seguintes etapas foram realizadas:**
 
 ## Limpeza dos dados 🧹
 Todos os processos de pré-processamento dos dados estão disponíveis do [Notebook da Limpeza dos Dados](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks/Valquiria_Alencar_Projeto_final_Limpeza.ipynb).
