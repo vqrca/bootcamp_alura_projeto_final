@@ -133,6 +133,20 @@ Conceitos sobre Machine Learning, modelos testados e análise de métricas estã
 <a name="conclusoes"></a>
 # Conclusões 💡
 
+- Ao realizar a análise exploratória dos dados, antes de aplicar os modelos de Machine Learning, é possível tirar as seguintes conclusões:
+
+ 	- Após realizar todas as etapas de limpeza, vemos que o **conjunto de dados** não está desbalanceado, pois o número de pacientes internados na UTI e o número de entradas não admitidas na UTI é próximo. Portanto, **não existe desequilíbrio para a variável que vamos prever e não será necessário realizar um balanceamento nos modelos de Machine Learning**.
+
+	- Vemos que até a faixa etária de 60 anos a maior parte dos pacientes não vai para UTI. Na faixa etária de 70 anos vemos que 50% dos pacientes precisaram de internação na UTI e **após os 80 anos as chances de ir para UTI aumentam bruscamente**. 
+
+	- É possível observar que **as chances de internação são menores nas mulheres**. Estudos já mostraram que a COVID-19 tem uma incidência maior em homens, que têm 50% mais probabilidade de morrer de COVID-19 do que mulheres ([Saghazadeh & Rezaei, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7157951/); [Qin *et al.,* 2020](https://pubmed.ncbi.nlm.nih.gov/32161940/))
+
+	- **Os pacientes com hipertensão e os paciente imunocomprimidos apresentaram uma chance ligeiramente maior de precisar da UTI**. Alguns resultados clínicos com COVID-19 indicam que as comorbidades associadas ao envelhecimento, como diabetes e função renal prejudicada, além da hipertensão, estão entre os fatores importantes que determinam a necessidade de internação em UTI [(Martini *et al.,* 2020)](https://pubmed.ncbi.nlm.nih.gov/32319439/).
+
+ 	- Além disso, outros estudos já mostraram pacientes com comprometimento do sistema imunológico (imunocomprometidos), valores (carga viral) do exame de PCR, porcentagem de LDH ou desidrogenase láctica, sódio, baixa saturação de O2 e percentual de idade são fatores ligados à admissão na UTI [(Huang *et al.,* 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext); [Wang *et al.,* 2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7042881/).
+
+	- Outra *feature* que não foi analisada graficamente, mas que é extremamente relevante é o sódio, um mineral importante para o corpo e ajuda a regular a quantidade de água dentro e ao redor das células. O nível de sódio no sangue é um dos fatores importantes na predição da probabilidade de admissão na UTI. A diminuição excessiva ou acentuada do nível de sódio no sangue é um dos importantes fatores preditivos na determinação da necessidade de admissão na UTI [(Lippi *et al.,* 2020)](https://pubmed.ncbi.nlm.nih.gov/32266828/).
+
 - Entre as *features* que os modelos mais deram importância, podemos destacar: `LEUKOCYTES_MEDIAN`, `PCR_MEDIAN`, `CALCIUM_MEDIAN` e `AGE_PERCENTIL`. A *feature* `LEUKOCYTES_MEDIAN` foi uma das principais em três dos quatro modelos testados. 
 
   - O aumento da contagem total de leucócitos e contagem diferencial de neutrófilos foi mais comumente observado em pacientes com COVID-19 grave ([Yuan *et al.,* 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103893/); [Anurag *et al.,* 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7605785/)).
