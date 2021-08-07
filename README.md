@@ -41,7 +41,7 @@
 
 🧹 [Notebook da Limpeza dos Dados](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks/Valquiria_Alencar_Projeto_final_Limpeza.ipynb)
 
-🤿 [Notebook da Análise Exploratória dos Dados]()
+🤿 [Notebook da Análise Exploratória dos Dados](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks%5CValquiria_Alencar_Projeto_final_An%C3%A1lise_Explorat%C3%B3ria_Features.ipynb)
 
 🔮 [Notebook das Previsões com Machine Learning](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks/Valqu%C3%ADria_Alencar_Projeto_final_ML.ipynb)
 > Para uma experiência melhor eu recomendo que esse notebook seja aberto pelo Google Colaboratory 😉
@@ -118,7 +118,7 @@ Após a importação das bibliotecas e dos dados, as seguintes etapas foram real
 Todos os processos de pré-processamento dos dados estão disponíveis do [Notebook da Limpeza dos Dados](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks/Valquiria_Alencar_Projeto_final_Limpeza.ipynb).
 
 ## Análise exploratória 🤿
-Todas as análises realizadas para explorar os dados antes de testar os modelos de Machine Learning estão disponíveis no [Notebook da Análise Exploratória dos Dados]().
+Todas as análises realizadas para explorar os dados antes de testar os modelos de Machine Learning estão disponíveis no [Notebook da Análise Exploratória dos Dados](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks%5CValquiria_Alencar_Projeto_final_An%C3%A1lise_Explorat%C3%B3ria_Features.ipynb).
 
 ## Modelos de Machine Learning 🔮
 Conceitos sobre Machine Learning, modelos testados e análise de métricas estão disponíveis no [Notebook das Previsões com Machine Learning](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks/Valqu%C3%ADria_Alencar_Projeto_final_ML.ipynb).
