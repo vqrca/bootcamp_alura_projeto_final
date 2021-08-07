@@ -98,7 +98,7 @@ Nesta base de dados encontramos diversos tipos de informações que foram separa
 - Doenças pré-existentes - 9 variáveis do tipo categórica
 - Resultados do exame de sangue - 36 variáveis, do tipo contínua: quando necessário, expandidas em média, mediana, max, min, diff(max-min) e diff relativa (diff/mediana)
 - Sinais vitais - 6 variáveis do tipo contínua
-- Neste dataset, temos algumas janelas de dados, coluna denominada como WINDOW, onde os pacientes foram agregados por janelas em ordem cronológica, que correspondem ao tempo que os pacientes entraram na UTI após a admissão no hospital: 
+- Neste dataset, temos algumas janelas de dados, coluna denominada como WINDOW, onde os pacientes foram agregados por janelas em ordem cronológica, que contam a história do paciente após a admissão no hospital:
  
 |WINDOW|DESCRIÇÃO|
 |:---------:|:-----------------------------------:|
