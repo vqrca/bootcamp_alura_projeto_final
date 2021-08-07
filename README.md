@@ -220,9 +220,9 @@ Conceitos sobre Machine Learning, modelos testados e análise de métricas estã
 
 [[21]](https://www.techscience.com/cmc/v69n2/43880) Ezz M, Elbashir M. K,, Shabana H. Predicting the Need for ICU Admission in COVID-19 Patients Using XGBoost. CMC-Computers, Materials & Continua, 2021; 69(2): 2077–2092.
 
-[[22]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7157951/)Saghazadeh A, Rezaei N. Immune-epidemiological parameters of the novel coronavirus—a perspective. Expert Rev Clin Immunol. 2020; 16(5):465–70 
+[[22]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7157951/) Saghazadeh A, Rezaei N. Immune-epidemiological parameters of the novel coronavirus—a perspective. Expert Rev Clin Immunol. 2020; 16(5):465–70 
 
-[[23]](https://pubmed.ncbi.nlm.nih.gov/32161940/)Qin C, Zhou L, Hu Z, Zhang S, Yang S, Tao Y, et al. Dysregulation of Immune Response in Patients With Coronavirus 2019 (COVID-19) in Wuhan, China. Clinical Infectious Diseases. 2020; 71(15):762–8.
+[[23]](https://pubmed.ncbi.nlm.nih.gov/32161940/) Qin C, Zhou L, Hu Z, Zhang S, Yang S, Tao Y, et al. Dysregulation of Immune Response in Patients With Coronavirus 2019 (COVID-19) in Wuhan, China. Clinical Infectious Diseases. 2020; 71(15):762–8.
 
 <a name="doc"></a>
 # Documentação 📚
