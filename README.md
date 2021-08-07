@@ -204,6 +204,23 @@ Conceitos sobre Machine Learning, modelos testados e análise de métricas estã
 
 [[13]](http://ganj-ie.iust.ac.ir:8081/images/6/69/Interpretable-machine-learning.pdf) Molnar, Christoph. Interpretable Machine Learning: A Guide for Making Black Box Models Explainable, 2018. 
 
+[[14](https://pubmed.ncbi.nlm.nih.gov/32319439) Martini N, Piccinni C, Pedrini A, Maggioni A. CoViD-19 e malattie croniche: conoscenze attuali, passi futuri e il progetto MaCroScopio [CoViD-19 and chronic diseases: current knowledge, future steps and the MaCroScopio project.]. Recenti Prog Med. 2020; Apr;111(4):198-201.
+
+[[15]](https://linkinghub.elsevier.com/retrieve/pii/S0140673620305663) Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet (London, England). 2020;395(10229):1054–62. pmid:32171076
+
+[[16]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7103893/) Yuan J, Zou R, Zeng L, et al. The correlation between viral clearance and biochemical outcomes of 94 COVID-19 infected discharged patients. Inflamm Res. 2020;69(6):599-606. doi:10.1007/s00011-020-01342-0
+
+[[17]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7605785/) Anurag A, Jha PK, Kumar A. Differential white blood cell count in the COVID-19: A cross-sectional study of 148 patients. Diabetes Metab Syndr. 2020;14(6):2099-2102. doi:10.1016/j.dsx.2020.10.029
+
+[[18]](https://portlandpress.com/bioscirep/article/40/12/BSR20202690/227080/Low-serum-calcium-a-new-important-indicator-of#3174684) Xi Zhou, Dong Chen, Lan Wang, Yuanyuan Zhao, Lai Wei, Zhishui Chen, Bo Yang; Low serum calcium: a new, important indicator of COVID-19 patients from mild/moderate to severe/critical. Biosci Rep 23 December 2020; 40 (12): BSR20202690. doi:
+
+[[19]](https://projecteuclid.org/journals/annals-of-statistics/volume-29/issue-5/Greedy-function-approximation-A-gradient-boostingmachine/10.1214/aos/1013203451.full) Friedman J. H. Greedy function approximation: A gradient boosting machine. Annals of statistics, 2001; vol. 29, no. 5, pp. 1189–1232.
+
+[[20]](https://arxiv.org/pdf/1603.02754.pdf) Chen T, Guestrin C. Xgboost: A scalable tree boosting system, in The 22nd ACM SIGKDD Int. Conf. 2016, San Francisco, California, USA, pp. 785–794. 
+
+[[21]](https://www.techscience.com/cmc/v69n2/43880) Ezz M, Elbashir M. K,, Shabana H. Predicting the Need for ICU Admission in COVID-19 Patients Using XGBoost. CMC-Computers, Materials & Continua, 2021; 69(2), 2077–2092.
+
+
 <a name="doc"></a>
 # Documentação 📚
 
