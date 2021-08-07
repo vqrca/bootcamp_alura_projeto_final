@@ -111,8 +111,10 @@ Nesta base de dados encontramos diversos tipos de informações que foram separa
 - No dataset também temos uma coluna denominada ICU, que corresponde à entrada do paciente na UTI.
 
 Então, foi um critério obrigatório para este projeto, não utilizar os dados quando o paciente deu entrada na UTI: ICU = 1,  pois não sabemos se os dados dos exames de sangue foram coletados antes ou depois do paciente ter sido encaminhado para UTI.
+
 Além disso, somente a janela de 0-2 horas foi utilizada, já que quanto mais cedo a previsão for feita é melhor, tornando-se clinicamente mais relevante.
-Após a importação das bibliotecas e dos dados, as seguintes etapas foram realizadas:
+
+**Após a importação das bibliotecas e dos dados, as seguintes etapas foram realizadas:
 
 ## Limpeza dos dados 🧹
 Todos os processos de pré-processamento dos dados estão disponíveis do [Notebook da Limpeza dos Dados](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks/Valquiria_Alencar_Projeto_final_Limpeza.ipynb).
