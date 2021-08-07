@@ -71,6 +71,10 @@ Com sua rápida disseminação, a COVID-19 criou uma forte demanda por hospitais
 A pandemia de COVID-19 atingiu o mundo inteiro, sobrecarregando os sistemas de saúde - despreparados para uma solicitação tão intensa e demorada de leitos de UTI, profissionais, equipamentos de proteção individual e recursos de saúde. O Brasil registrou o primeiro caso COVID-19 em 26 de fevereiro de 2020 e atingiu a transmissão na comunidade em 20 de março de 2020. 
 Existe uma urgência na obtenção de dados precisos para melhor prever e preparar os sistemas de saúde e evitar colapsos, definido pela necessidade de leitos de UTI acima da capacidade (assumindo que recursos humanos, EPIs e profissionais estejam disponíveis), usando dados clínicos individuais - em vez de dados epidemiológicos e populacionais. Isso seria imprescindível para evitar o colapso no sistema de saúde, como podemos observar na figura abaixo: 
 
+<p align="center"> 
+ <img src="https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Images/curva-corrigido-post.gif" />
+</p>
+
 Pensando nisso, o Hospital Sírio Libânes disponibilizou no [Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19) um dataset contendo informações sobre vários pacientes, com os seguintes objetivos: 
 
 - **Prever admissão na UTI de casos confirmados de COVID-19**, com base em dados disponíveis, para fornecer aos hospitais terciários e trimestrais a resposta mais precisa, para que os recursos da UTI possam ser arranjados ou a transferência do paciente possa ser agendada.
