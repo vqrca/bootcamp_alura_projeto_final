@@ -228,6 +228,8 @@ Conceitos sobre Machine Learning, modelos testados e análise de métricas estã
 
 [[25]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7042881/) Wang D, Hu B, Hu C, Zhu F, Liu X et al. Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus–infected pneumonia in Wuhan, China. JAMA Journal. 2020, 323(11): 1061–1069, 2020.
 
+[[26]](https://pubmed.ncbi.nlm.nih.gov/32266828/) Lippi G, South AM, and Henry BM. Electrolyte imbalances in patients with severe coronavirus disease 2019 (covid19). Annals of Clinical Biochemistry. 2020; 57(3): 262–265, 2020.
+
 <a name="doc"></a>
 # Documentação 📚
 
