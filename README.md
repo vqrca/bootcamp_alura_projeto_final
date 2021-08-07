@@ -224,6 +224,10 @@ Conceitos sobre Machine Learning, modelos testados e análise de métricas estã
 
 [[23]](https://pubmed.ncbi.nlm.nih.gov/32161940/) Qin C, Zhou L, Hu Z, Zhang S, Yang S, Tao Y, et al. Dysregulation of Immune Response in Patients With Coronavirus 2019 (COVID-19) in Wuhan, China. Clinical Infectious Diseases. 2020; 71(15):762–8.
 
+[[24]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext) Huang C, Wang Y, Li X, Ren L, Zhao J et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet.2020; 395(10223): 497–506, 2020.
+
+[[25]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7042881/) Wang D, Hu B, Hu C, Zhu F, Liu X et al. Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus–infected pneumonia in Wuhan, China. JAMA Journal. 2020, 323(11): 1061–1069, 2020.
+
 <a name="doc"></a>
 # Documentação 📚
 
