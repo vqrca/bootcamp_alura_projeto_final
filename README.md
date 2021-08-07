@@ -46,7 +46,7 @@
 🔮 [Notebook das Previsões com Machine Learning](https://github.com/vqrca/bootcamp_alura_projeto_final/blob/main/Notebooks/Valqu%C3%ADria_Alencar_Projeto_final_ML.ipynb)
 > Para uma experiência melhor eu recomendo que esse notebook seja aberto pelo Google Colaboratory 😉
 
-👩‍💻 Uma publicação no Medium, sumarizando os principais resultados, pode ser encontrada [aqui]()
+👩‍💻 Uma publicação no Medium, sumarizando os principais resultados, pode ser encontrada [aqui](https://medium.com/p/c7c274a623b6)
 
 <a name="intro"></a>
 # Introdução
