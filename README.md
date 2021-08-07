@@ -230,6 +230,8 @@ Conceitos sobre Machine Learning, modelos testados e análise de métricas estã
 
 [[26]](https://pubmed.ncbi.nlm.nih.gov/32266828/) Lippi G, South AM, and Henry BM. Electrolyte imbalances in patients with severe coronavirus disease 2019 (covid19). Annals of Clinical Biochemistry. 2020; 57(3): 262–265, 2020.
 
+[[27]](https://jintensivecare.biomedcentral.com/articles/10.1186/s40560-020-00466-z) Yao Y, Cao J, Wang Q, Shi Q, Liu K et al. D-dimer as a biomarker for disease severity and mortality in covid-19 patients: A case control study. Journal of Intensive Care. 2020; 8(1):1–11.
+
 <a name="doc"></a>
 # Documentação 📚
 
